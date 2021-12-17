@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PauloBigooD - Paulo Eduardo da Silva Junior
-- 👀 I’m interested in : Zabbix ; Grafana ; Docker ; PowerShell 
+- 👀 I’m interested in : Zabbix ; Grafana ; Docker ; PowerShell ; Python 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : pauloeduardojunior19@gmail.com ; paulo.eduardo.093@ufrn.edu.br ; 📞 +55 (84) 98808-0933
