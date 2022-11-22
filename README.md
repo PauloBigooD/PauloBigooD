@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PauloBigooD - Paulo Eduardo da Silva Junior
 - 👀 I’m interested in : 
--  - Zabbix - <img src="https://symbols.getvecta.com/stencil_104/0_zabbix.49c124379d.svg" width="40" height="25"/>
+-  - Zabbix - <img src="[https://symbols.getvecta.com/stencil_104/0_zabbix.49c124379d.svg](https://assets.zabbix.com/img/logo/zabbix_logo_313x82.png)" width="40" height="25"/>
 -  - Grafana  -<img src="https://cdn.icon-icons.com/icons2/2699/PNG/128/grafana_logo_icon_171048.png" width="25" height="25"/>
 -  - Docker - <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="25" height="25"/>
 -  - Kubernets - <img src="https://symbols.getvecta.com/stencil_86/47_kubernetes-icon.0ceba07af6.svg" width="25" height="25"/>
