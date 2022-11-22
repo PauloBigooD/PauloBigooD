@@ -9,9 +9,10 @@
 -  - Oracle Cloud - <img src="https://cdn.icon-icons.com/icons2/2699/PNG/128/oracle_logo_icon_168918.png" width="25" height="25"/> 
 -  - Azure - <img src="https://cdn2.downdetector.com/static/uploads/logo/image18.png" width="90" height="25"/> 
 -  - Ansible - <img src="https://avatars.githubusercontent.com/u/1507452?s=200&v=4" width="25" height="25"/>  
--  
+-  - Proxmox VE - <img src="https://linuxsolutions.com.br/wp-content/themes/yootheme/cache/Proxmox-logo-1e53e317.webp" width="90" height="20"/>
 
-- 📫 How to reach me : pauloeduardojunior19@gmail.com ; paulo.eduardo.093@ufrn.edu.br ; 📞 +55 (84) 98808-0933
+- 📫 How to reach me : pauloeduardojunior19@gmail.com ; paulo.eduardo.093@ufrn.edu.br
+- 📞 +55 (84) 98808-0933
 
 <!---
 PauloBigooD/PauloBigooD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
