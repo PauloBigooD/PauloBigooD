@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PauloBigooD - Paulo Eduardo da Silva Junior
 - 👀 I’m interested in : 
 -  - Zabbix - <img src="https://assets.zabbix.com/img/logo/zabbix_logo_313x82.png" width="100" height="25"/>
--  - Grafana  -<img src="https://cdn.icon-icons.com/icons2/2699/PNG/128/grafana_logo_icon_171048.png" width="25" height="25"/>
+-  - [Grafana](https://github.com/PauloBigooD/Grafana) - <img src="https://grafana.com/static/assets/internal/grafana_logo-web-white-text.svg">
 -  - Docker - <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="30" height="30"/>
 -  - Kubernets - <img src="https://kubernetes.io/images/kubernetes-horizontal-color.png" width="100" height="20"/>
 -  - PowerShell - <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" width="25" height="25"/>
