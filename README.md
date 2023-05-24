@@ -1,4 +1,4 @@
-- # 👋 **Hi, I’m @PauloBigooD - Paulo Eduardo da Silva Junior**
+- # 👋 **Hi, I’m  Paulo Eduardo da Silva Junior**
 - 👀 I’m interested in : 
 -  - <img src="https://assets.zabbix.com/img/logo/zabbix_logo_313x82.png" width="110" height="25">
 -  - <img src="https://grafana.com/static/assets/internal/grafana_logo-web-white-text.svg">
