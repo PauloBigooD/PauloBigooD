@@ -1,15 +1,18 @@
 - 👋 Hi, I’m @PauloBigooD - Paulo Eduardo da Silva Junior
 - 👀 I’m interested in : 
--  - Zabbix - <img src="https://assets.zabbix.com/img/logo/zabbix_logo_313x82.png" width="100" height="25"/>
--  - [Grafana](https://github.com/PauloBigooD/Grafana) - <img src="https://grafana.com/static/assets/internal/grafana_logo-web-white-text.svg">
--  - Docker - <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="30" height="30"/>
--  - Kubernets - <img src="https://kubernetes.io/images/kubernetes-horizontal-color.png" width="100" height="20"/>
--  - PowerShell - <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" width="25" height="25"/>
--  - Python - <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="25" height="25"/>
--  - Oracle Cloud - <img src="https://cdn.icon-icons.com/icons2/2699/PNG/128/oracle_logo_icon_168918.png" width="25" height="25"/> 
--  - Azure - <img src="https://cdn2.downdetector.com/static/uploads/logo/image18.png" width="90" height="25"/> 
--  - Ansible - <img src="https://avatars.githubusercontent.com/u/1507452?s=200&v=4" width="25" height="25"/>  
--  - Proxmox VE - <img src="https://linuxsolutions.com.br/wp-content/themes/yootheme/cache/Proxmox-logo-1e53e317.webp" width="90" height="20"/>
+-  - <img src="https://assets.zabbix.com/img/logo/zabbix_logo_313x82.png" width="110" height="25">
+-  - <img src="https://grafana.com/static/assets/internal/grafana_logo-web-white-text.svg">
+-  - <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+-  - <img src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white">
+-  - <img src="https://img.shields.io/badge/Puppet-FFAD19?style=for-the-badge&logo=puppet&logoColor=black">
+-  - <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=Ansible&logoColor=white">
+-  - <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
+-  - <img src="https://img.shields.io/badge/OpenStack-EA2046?style=for-the-badge&logo=openstack&logoColor=white">
+-  - <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"> 
+-  - <img src="https://uploaddeimagens.com.br/images/004/479/025/full/powershell_%281%29.png?1684933051">
+-  - <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+-  - Oracle Cloud - <img src="https://cdn.icon-icons.com/icons2/2699/PNG/128/oracle_logo_icon_168918.png" width="25" height="25"> 
+-  - Proxmox VE - <img src="https://linuxsolutions.com.br/wp-content/themes/yootheme/cache/Proxmox-logo-1e53e317.webp" width="90" height="20">
 
 - 📫 How to reach me : pauloeduardojunior19@gmail.com ; paulo.eduardo.093@ufrn.edu.br
 - 📞 +55 (84) 98808-0933
