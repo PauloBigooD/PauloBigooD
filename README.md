@@ -4,7 +4,6 @@
 - Bachelor of Science and Technology - UFRN
 - Computer Technician - IFRN
 - Lattes resume: http://lattes.cnpq.br/2880435030241000
-- Linkedin: https://www.linkedin.com/in/paulo-eduardo-5a18b3174/
 - 👀 I’m interested in : 
 -  - <img src="https://assets.zabbix.com/img/logo/zabbix_logo_313x82.png" width="110" height="25">
 -  - <img src="https://grafana.com/static/assets/internal/grafana_logo-web-white-text.svg">
