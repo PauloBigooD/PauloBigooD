@@ -22,7 +22,7 @@
 
 - 📫 How to reach me : 
 
-[![Linkedin: Paulo Eduardo](https://img.shields.io/badge/-Paulo%20Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/paulo-eduardo-5a18b3174)
+[![Linkedin: Paulo Eduardo](https://img.shields.io/badge/-Paulo%20Eduardo-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-eduardo-5a18b3174)](https://www.linkedin.com/in/paulo-eduardo-5a18b3174)
 [![Gmail Badge](https://img.shields.io/badge/-paulo.eduardo.093@ufrn.edu.br-006bed?style=plastic&logo=Gmail&logoColor=red&link=mailto:paulo.eduardo.093@ufrn.edu.br)](mailto:paulo.eduardo.093@ufrn.edu.br)
 [![GitHub SEU NOME](https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 
