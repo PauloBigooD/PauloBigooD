@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PauloBigooD - Paulo Eduardo da Silva Junior
+- # 👋 **Hi, I’m @PauloBigooD - Paulo Eduardo da Silva Junior**
 - 👀 I’m interested in : 
 -  - <img src="https://assets.zabbix.com/img/logo/zabbix_logo_313x82.png" width="110" height="25">
 -  - <img src="https://grafana.com/static/assets/internal/grafana_logo-web-white-text.svg">
@@ -9,10 +9,10 @@
 -  - <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
 -  - <img src="https://img.shields.io/badge/OpenStack-EA2046?style=for-the-badge&logo=openstack&logoColor=white">
 -  - <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"> 
--  - <img src="https://uploaddeimagens.com.br/images/004/479/025/full/powershell_%281%29.png?1684933051">
+-  - <img src="https://uploaddeimagens.com.br/images/004/479/054/full/Oracle_Cloud_logo.png?1684934266"> 
+-  - <img src="https://uploaddeimagens.com.br/images/004/479/064/full/proxmox_logo.png?1684934621">
+-  - <img src="https://uploaddeimagens.com.br/images/004/479/025/full/powershell_%281%29.png?1684933051" height="28">
 -  - <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
--  - Oracle Cloud - <img src="https://cdn.icon-icons.com/icons2/2699/PNG/128/oracle_logo_icon_168918.png" width="25" height="25"> 
--  - Proxmox VE - <img src="https://linuxsolutions.com.br/wp-content/themes/yootheme/cache/Proxmox-logo-1e53e317.webp" width="90" height="20">
 
 - 📫 How to reach me : pauloeduardojunior19@gmail.com ; paulo.eduardo.093@ufrn.edu.br
 - 📞 +55 (84) 98808-0933
