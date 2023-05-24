@@ -20,7 +20,20 @@
 -  - <img src="https://uploaddeimagens.com.br/images/004/479/025/full/powershell_%281%29.png?1684933051" height="28">
 -  - <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 
-- 📫 How to reach me : pauloeduardojunior19@gmail.com ; paulo.eduardo.093@ufrn.edu.br
+- 📫 How to reach me : 
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=paulo.eduardo.093@ufrn.edu.br" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-eduardo-5a18b3174/" /></a>
+
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+  
+</p>
+
+
 - 📞 +55 (84) 98808-0933
 
 <!---
