@@ -21,18 +21,10 @@
 -  - <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 
 - 📫 How to reach me : 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=paulo.eduardo.093@ufrn.edu.br" /></a>
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-eduardo-5a18b3174/" /></a>
-
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-  
-</p>
-
+[![Linkedin: Paulo Eduardo](https://img.shields.io/badge/-Paulo%20Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/paulo-eduardo-5a18b3174)
+[![Gmail Badge](https://img.shields.io/badge/-paulo.eduardo.093@ufrn.edu.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulo.eduardo.093@ufrn.edu.br)](mailto:paulo.eduardo.093@ufrn.edu.br)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 
 - 📞 +55 (84) 98808-0933
 
