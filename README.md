@@ -24,11 +24,10 @@
 
 ### 📫 How to reach me : 
 
+[![📞 +55 (84) 98808-0933](https://img.shields.io/badge/-55%20(84)%2098808%200933-blue?style=plastic&logoColor=white)]()
 [![Linkedin: Paulo Eduardo](https://img.shields.io/badge/-Paulo%20Eduardo-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-eduardo-5a18b3174)](https://www.linkedin.com/in/paulo-eduardo-5a18b3174)
 [![Gmail Badge](https://img.shields.io/badge/-paulo.eduardo.093@ufrn.edu.br-006bed?style=plastic&labelColor=black&logo=Gmail&logoColor=write&link=mailto:paulo.eduardo.093@ufrn.edu.br)](mailto:paulo.eduardo.093@ufrn.edu.br)
 [![GitHub SEU NOME](https://img.shields.io/github/followers/VanessaSwerts?label=PauloBigooD&style=social)](https://github.com/PauloBigooD)
-
-- 📞 +55 (84) 98808-0933
 
 <!---
 PauloBigooD/PauloBigooD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
