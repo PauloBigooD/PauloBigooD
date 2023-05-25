@@ -24,9 +24,10 @@
 
 ### 📫 How to reach me : 
 
-[![📞 +55 (84) 98808-0933](https://img.shields.io/badge/-55%20(84)%2098808%200933-424242?style=plastic&logo=homeadvisor&logoColor=white)]()
 [![Linkedin: Paulo Eduardo](https://img.shields.io/badge/-Paulo%20Eduardo-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-eduardo-5a18b3174)](https://www.linkedin.com/in/paulo-eduardo-5a18b3174)
-[![Gmail Badge](https://img.shields.io/badge/-paulo.eduardo.093@ufrn.edu.br-006bed?style=plastic&labelColor=black&logo=Gmail&logoColor=write&link=mailto:paulo.eduardo.093@ufrn.edu.br)](mailto:paulo.eduardo.093@ufrn.edu.br)
+[![Gmail Badge](https://img.shields.io/badge/-paulo.eduardo.093@ufrn.edu.br-424242?style=plastic&labelColor=424242&logo=Gmail&logoColor=write&link=mailto:paulo.eduardo.093@ufrn.edu.br)](mailto:paulo.eduardo.093@ufrn.edu.br)
+[![📞 +55 (84) 98808-0933](https://img.shields.io/badge/-%F0%9F%93%9E%20+55%20(84)%2098808%200933-424242?style=plastic&logoColor=white)]()
+[![📞 +55 (84) 98808-0933](https://img.shields.io/badge/-+55%20(84)%2098808%200933-3ADF00?style=plastic&logo=whatsapp&logoColor=white)]()
 [![GitHub SEU NOME](https://img.shields.io/github/followers/VanessaSwerts?label=PauloBigooD&style=social)](https://github.com/PauloBigooD)
 
 <!---
