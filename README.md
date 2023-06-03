@@ -9,9 +9,9 @@
 - Lattes resume: http://lattes.cnpq.br/2880435030241000
 ### 👀 I’m interested in : 
 
-  - [![Zabbix](https://img.shields.io/badge/ZABBIX-FF0000?style=plastic&logo=zotero&logoColor=write")](https://github.com/PauloBigooD/Zabbix)
+  - [![Zabbix](https://img.shields.io/badge/ZABBIX-FF0000?style=plastic&logo=zotero&logoColor=write)](https://github.com/PauloBigooD/Zabbix)
   - [![Grafana](https://img.shields.io/badge/Grafana-F4FA58?style=plastic&logo=grafana&logoColor=write)](https://github.com/PauloBigooD/Grafana)
-  - [![Docker]("https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white")](https://github.com/PauloBigooD/Docker)
+  - [![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)](https://github.com/PauloBigooD/Docker)
   - <img src="https://img.shields.io/badge/Kubernetes-326DE6?style=plastic&logo=kubernetes&logoColor=white">
   - <img src="https://img.shields.io/badge/Puppet-FFAD19?style=plastic&logo=puppet&logoColor=black">
   - <img src="https://img.shields.io/badge/Ansible-000000?style=plastic&logo=Ansible&logoColor=white">
