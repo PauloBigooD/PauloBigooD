@@ -1,6 +1,6 @@
 # :nerd_face: **Hi, I’m  Paulo Eduardo da Silva Junior**
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://uploaddeimagens.com.br/images/004/522/927/original/pngwing.com_%282%29.png?1687893059" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ### Educational background
 - Bachelor in Telecommunications Engineering - [![UFRN](https://img.shields.io/badge/-UFRN-blue?style=plastic&logo=telephone&logoColor=white&link=https://www.ufrn.br/")](https://www.ufrn.br)
