@@ -9,6 +9,7 @@
 - Lattes resume: http://lattes.cnpq.br/2880435030241000
 ### 👀 I’m interested in : 
 
+  - <img src="https://img.shields.io/badge/OpenAirInterface-119ebd?style=plastic&logoColor=white">
   - [![Zabbix](https://img.shields.io/badge/ZABBIX-FF0000?style=plastic&logo=zotero&logoColor=write)](https://github.com/PauloBigooD/Zabbix)
   - [![Grafana](https://img.shields.io/badge/Grafana-F4FA58?style=plastic&logo=grafana&logoColor=write)](https://github.com/PauloBigooD/Grafana)
   - [![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)](https://github.com/PauloBigooD/Docker)
