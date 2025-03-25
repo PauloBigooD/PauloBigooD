@@ -3,6 +3,7 @@
 <img src="https://uploaddeimagens.com.br/images/004/522/927/original/pngwing.com_%282%29.png?1687893059" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ### Educational background
+- Master's degree in Electrical and Computer Engineering - [![UFRN](https://img.shields.io/badge/-UFRN-blue?style=plastic&logo=telephone&logoColor=white&link=https://www.ufrn.br/")](https://www.ufrn.br)
 - Bachelor in Telecommunications Engineering - [![UFRN](https://img.shields.io/badge/-UFRN-blue?style=plastic&logo=telephone&logoColor=white&link=https://www.ufrn.br/")](https://www.ufrn.br)
 - Bachelor of Science and Technology - [![UFRN](https://img.shields.io/badge/-UFRN-blue?style=plastic&logo=telephone&logoColor=white&link=https://www.ufrn.br/")](https://www.ufrn.br)
 - Computer Technician - [![IFRN](https://img.shields.io/badge/-IFRN-3ADF00?style=plastic&logo=telephone&logoColor=white&link=https://portal.ifrn.edu.br/")](https://portal.ifrn.edu.br)
