@@ -1,6 +1,6 @@
 # :nerd_face: **Hi, I’m  Paulo Eduardo da Silva Junior**
 
-<img src="https://uploaddeimagens.com.br/images/004/522/927/original/pngwing.com_%282%29.png?1687893059" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/PauloBigooD/Images/refs/heads/main/README_Computer.png?token=GHSAT0AAAAAADDXLC7I2DKLYTVWNRJCBOTK2B5WX3Q" min-width="450px" max-width="450px" width="450px" align="right">
 
 ### Educational background
 - Master's degree in Electrical and Computer Engineering - [![UFRN](https://img.shields.io/badge/-UFRN-blue?style=plastic&logo=telephone&logoColor=white&link=https://www.ufrn.br/")](https://www.ufrn.br)
@@ -12,6 +12,8 @@
 ### 👀 I’m interested in : 
 
   - [![OpenAirInterface](https://img.shields.io/badge/OpenAirInterface-119ebd?style=plastic&logoColor=white)](https://github.com/PauloBigooD/OpenAirInterface)
+  - [![Open5GS](https://img.shields.io/badge/Open5GS-119ebd?style=plastic&logoColor=white)]()
+  - [![srsRAN](https://img.shields.io/badge/srsRAN-119ebd?style=plastic&logoColor=white)]()
   - [![Zabbix](https://img.shields.io/badge/ZABBIX-FF0000?style=plastic&logo=zotero&logoColor=write)](https://github.com/PauloBigooD/Zabbix)
   - [![Grafana](https://img.shields.io/badge/Grafana-F4FA58?style=plastic&logo=grafana&logoColor=write)](https://github.com/PauloBigooD/Grafana)
   - [![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)](https://github.com/PauloBigooD/Docker)
