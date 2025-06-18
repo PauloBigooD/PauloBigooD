@@ -1,6 +1,6 @@
 # :nerd_face: **Hi, I’m  Paulo Eduardo da Silva Junior**
 
-<img src="https://raw.githubusercontent.com/PauloBigooD/Images/refs/heads/main/README_Computer.png?token=GHSAT0AAAAAADDXLC7I2DKLYTVWNRJCBOTK2B5WX3Q" min-width="450px" max-width="450px" width="450px" align="right">
+<img src="https://raw.githubusercontent.com/PauloBigooD/Images/refs/heads/main/README_Computer.png" min-width="450px" max-width="450px" width="450px" align="right">
 
 ### Educational background
 - Master's degree in Electrical and Computer Engineering - [![UFRN](https://img.shields.io/badge/-UFRN-blue?style=plastic&logo=telephone&logoColor=white&link=https://www.ufrn.br/")](https://www.ufrn.br)
@@ -11,9 +11,9 @@
   
 ### 👀 I’m interested in : 
 
-  - [![OpenAirInterface](https://img.shields.io/badge/OpenAirInterface-119ebd?style=plastic&logoColor=white)](https://github.com/PauloBigooD/OpenAirInterface)
-  - [![Open5GS](https://img.shields.io/badge/Open5GS-119ebd?style=plastic&logoColor=white)]()
-  - [![srsRAN](https://img.shields.io/badge/srsRAN-119ebd?style=plastic&logoColor=white)]()
+  - [![OpenAirInterface](https://img.shields.io/badge/OpenAirInterface-119EBD?style=plastic&logoColor=white&logo=wikiquote)](https://github.com/PauloBigooD/OpenAirInterface)
+  - [![Open5GS](https://img.shields.io/badge/Open5GS-364FC7?style=plastic&logoColor=white&logo=osano)](https://github.com/PauloBigooD/Open5GS)
+  - [![srsRAN](https://img.shields.io/badge/srsRAN-00B2E2?style=plastic&logoColor=white&logo=opencollective)](https://github.com/PauloBigooD/Open5GS/tree/main/srsRAN)
   - [![Zabbix](https://img.shields.io/badge/ZABBIX-FF0000?style=plastic&logo=zotero&logoColor=write)](https://github.com/PauloBigooD/Zabbix)
   - [![Grafana](https://img.shields.io/badge/Grafana-F4FA58?style=plastic&logo=grafana&logoColor=write)](https://github.com/PauloBigooD/Grafana)
   - [![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)](https://github.com/PauloBigooD/Docker)
