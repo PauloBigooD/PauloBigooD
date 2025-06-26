@@ -25,22 +25,22 @@
 
 ---
 
-### ☁️ Cloud & Infrastructure
+### 👀 I’m interested in :
 
 <ul>
-  <li><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux"></li>
-  <li><img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" alt="Windows"></li>
-  <li><img src="https://img.shields.io/badge/Kubernetes-326DE6?style=plastic&logo=kubernetes&logoColor=white" alt="Kubernetes"></li>
-  <li><img src="https://img.shields.io/badge/Puppet-FFAD19?style=plastic&logo=puppet&logoColor=black" alt="Puppet"></li>
-  <li><img src="https://img.shields.io/badge/Ansible-000000?style=plastic&logo=Ansible&logoColor=white" alt="Ansible"></li>
-  <li><img src="https://img.shields.io/badge/Terraform-7B42BC?style=plastic&logo=terraform&logoColor=white" alt="Terraform"></li>
-  <li><img src="https://img.shields.io/badge/OpenStack-EA2046?style=plastic&logo=openstack&logoColor=white" alt="OpenStack"></li>
-  <li><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white" alt="AWS"></li>
-  <li><img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" alt="Microsoft Azure"></li>
-  <li><img src="https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white" alt="Oracle Cloud"></li>
-  <li><img src="https://img.shields.io/badge/Proxmox-000000?style=plastic&logo=proxmox&logoColor=white" alt="Proxmox"></li>
-  <li><img src="https://img.shields.io/badge/PowerShell-EFFBFB?style=plastic&logo=powershell&logoColor=white" alt="PowerShell"></li>
-  <li><img src="https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white" alt="Python"></li>
+  <li><a href="#" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux"></a></li>
+  <li><a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" alt="Windows"></a></li>
+  <li><a href="#" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326DE6?style=plastic&logo=kubernetes&logoColor=white" alt="Kubernetes"></a></li>
+  <li><a href="#" target="_blank"><img src="https://img.shields.io/badge/Puppet-FFAD19?style=plastic&logo=puppet&logoColor=black" alt="Puppet"></a></li>
+  <li><a href="#" target="_blank"><img src="https://img.shields.io/badge/Ansible-000000?style=plastic&logo=Ansible&logoColor=white" alt="Ansible"></a></li>
+  <li><a href="#" target="_blank"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=plastic&logo=terraform&logoColor=white" alt="Terraform"></a></li>
+  <li><a href="#" target="_blank"><img src="https://img.shields.io/badge/OpenStack-EA2046?style=plastic&logo=openstack&logoColor=white" alt="OpenStack"></a></li>
+  <li><a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white" alt="AWS"></a></li>
+  <li><a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" alt="Microsoft Azure"></a></li>
+  <li><a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white" alt="Oracle Cloud"></a></li>
+  <li><a href="#" target="_blank"><img src="https://img.shields.io/badge/Proxmox-000000?style=plastic&logo=proxmox&logoColor=write" alt="Proxmox"></a></li>
+  <li><a href="#" target="_blank"><img src="https://img.shields.io/badge/PowerShell-EFFBFB?style=plastic&logo=powershell&logoColor=write" alt="PowerShell"></a></li>
+  <li><a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white" alt="Python"></a></li>
 </ul>
 
 ---
